@@ -1,13 +1,6 @@
-install-uv:
-	curl -LsSf https://astral.sh/uv/install.sh | sh
-start-uv:
-	uv venv &&\
-		source .venv/bin/activate
 install:
-	uv pip install --upgrade pip &&\
-		uv pip install -r requirements.txt
-setup: install-uv start-uv install
-	@echo "Setup complete! uv installed and dependencies ready."
+	pip install --upgrade pip &&\
+		pip install -r requirements.txt
 format:
 	# format code
 lint:
