@@ -13,3 +13,5 @@
 9. Setup linting, formatting, testing as shown in `Makefile`
 10. Build basic cli `cli-fire.py` using Python Fire library `./cli-fire.py --help`
 11. Code out the rest of the logic. Make tests such as `test_logic.py` and `test_main.py`
+12. Code out Dockerfile and test building image and running container
+13. Update `Makefile` and `aws.yml` to include building
