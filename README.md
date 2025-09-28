@@ -10,3 +10,4 @@
 6. Add ci: Go to Github repo > Actions > AWS
 7. Populate `aws.yml` and check ci is working
 8. Add ci status badge to `README.md` from Actions > ... 
+9. Setup 
