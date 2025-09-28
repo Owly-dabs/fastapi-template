@@ -15,3 +15,5 @@
 11. Code out the rest of the logic. Make tests such as `test_logic.py` and `test_main.py`
 12. Code out Dockerfile and test building image and running container
 13. Update `Makefile` and `aws.yml` to include building
+14. To deploy to AWS, make a repository in ECR.
+15. Copy push commands to deploy step in `Makefile`
