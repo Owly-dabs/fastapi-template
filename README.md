@@ -1,4 +1,5 @@
 # fastapi-template
+![AWS CodeBuild to ECR Pipeline](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiTllnUlhzdHhqa0w3MS9EOEEvM2FoL0dGMk1kU0R3ZzRwUS9DMjRDa1VCQnNscCttUmdJMVJtcmxRdStCMWNXbVJUR3FiWkgrOEloalB2YVY1M1R0UlRjPSIsIml2UGFyYW1ldGVyU3BlYyI6InpKdjBxdmc4azZ3L2dvb1giLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 [![Python application test with Github Actions](https://github.com/Owly-dabs/fastapi-template/actions/workflows/aws.yml/badge.svg)](https://github.com/Owly-dabs/fastapi-template/actions/workflows/aws.yml)
 
 ## Development steps
